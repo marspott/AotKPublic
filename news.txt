@@ -1,3 +1,3 @@
-News from Studio Primitive: 
-
-- Attack of the Karens events are coming!  
+- Kurse challenges are coming!  Compete with other players and see who can get the fastest completion time using a kurse selected by the developer!  The winner will get their username on the header of the news banner for a week to celebrate their achievement.  Join the discord server to participate!
+- Studio Primitive Devcast #002 is coming soon!  Stay tuned to the youtube channel, twiter, or discord for more details. 
+- Patch 1.1.0 is currently under development to add in control bindings!  This should hopefully release in the next couple of weeeks. 
